@@ -14,23 +14,37 @@ Dedicated and efficient full stack developer with 6 years of extensive experienc
 ## Skills
 
 •	Node + Mongodb
+
 •	Node + Firebase
+
 •	React js + Express Js
+
 •	GraphQl
+
 •	Vue Js
+
 •	Laravel , CI, Cake PHP
+
 •	HTML + jQuery + CSS
+
 •	Wordpress
+
 •	MySql/SQL
 
 ## Acknowledgements
 
 •	Response on time
+
 •	Very good in Teamwork 
+
 •	Collaboration
+
 •	Quality assurance
+
 •	Helping hands
+
 •	Transparent approach
+
 •	Positive attitude
 
 
