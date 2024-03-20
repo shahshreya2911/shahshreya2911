@@ -1,16 +1,36 @@
 ### Hi there 👋
 
-<!--
-**shahshreya2911/shahshreya2911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# I am Shreya Shah
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Either i will find a way or i will make one!!
+
+
+
+## Web developer
+
+Dedicated and efficient full stack developer with 6 years of extensive experience in participating in all phases of web-application development. Having expertise in various working methods like Agile & Waterfall approaches. Wants to enhance my expertise with organisation which can provide better exposure.
+
+## Skills
+
+•	Node + Mongodb
+•	Node + Firebase
+•	React js + Express Js
+•	GraphQl
+•	Vue Js
+•	Laravel , CI, Cake PHP
+•	HTML + jQuery + CSS
+•	Wordpress
+•	MySql/SQL
+
+## Acknowledgements
+
+•	Response on time
+•	Very good in Teamwork 
+•	Collaboration
+•	Quality assurance
+•	Helping hands
+•	Transparent approach
+•	Positive attitude
+
+
